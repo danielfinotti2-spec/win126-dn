@@ -1,0 +1,4 @@
+﻿# large parsed artifacts
+config.json
+*.bin
+node_modules/
